@@ -918,7 +918,7 @@ Buttons
 =========================== */
 
 .btn-skin {
-  color: #fff;
+  color: none;
 }
 
 .btn-skin:hover {
@@ -1648,7 +1648,7 @@ a.scrollup i:hover {
 	position: relative;
 	display: inline-block;
 	outline: none;
-	color: #fff;
+	color: none;
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 1px;
