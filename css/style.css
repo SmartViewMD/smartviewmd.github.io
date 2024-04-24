@@ -918,7 +918,7 @@ Buttons
 =========================== */
 
 .btn-skin {
-  color: none;
+  color: #fff;
 }
 
 .btn-skin:hover {
@@ -1297,7 +1297,7 @@ Testimonial
 ============================ */
 
 footer {
-    background-color: #343a40;
+    background-color: #aaaaaa;
 }
 
 footer {
@@ -1648,7 +1648,6 @@ a.scrollup i:hover {
 	position: relative;
 	display: inline-block;
 	outline: none;
-	color: none;
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 1px;
